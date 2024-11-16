@@ -1,11 +1,7 @@
-Here’s a template for a `README.md` file for your SQL project. This document will help outline the purpose, dataset, structure, and key insights of your project on GitHub.
-
----
-
 # Credit Card Default Analysis using SQL on BigQuery
 
 ## Project Overview
-This project analyses credit card default patterns using SQL, focusing on demographic factors and payment behaviour to identify trends associated with higher risks of default. The analysis is conducted on the [Credit Card Default dataset](https://console.cloud.google.com/marketplace/product/bigquery-public-data/ml_datasets) available on Google BigQuery.
+This project analyses credit card default patterns using SQL, focusing on demographic factors and payment behaviour to identify trends associated with higher risks of default. The analysis is conducted on the [Credit Card Default dataset](https://console.cloud.google.com/marketplace/product/bigquery-public-data/ml_datasets) available on **Google BigQuery.**
 
 Through various SQL queries, this project explores client characteristics, calculates default rates across different demographics, and examines payment histories.
 
@@ -98,7 +94,7 @@ and insights from this analysis, please see the Notion Report.
 # Credit Card Default Analysis using SQL on BigQuery
 
 ## Project Overview
-This project analyses credit card default patterns using SQL, focusing on demographic factors and payment behaviour to identify trends associated with higher risks of default. The analysis is conducted on the [Credit Card Default dataset](https://console.cloud.google.com/marketplace/product/bigquery-public-data/ml_datasets) available on Google BigQuery.
+This project analyses credit card default patterns using SQL, focusing on demographic factors and payment behaviour to identify trends associated with higher risks of default. The analysis is conducted on the [Credit Card Default dataset](https://console.cloud.google.com/marketplace/product/bigquery-public-data/ml_datasets) available on Google **BigQuery.**
 
 Through various SQL queries, this project explores client characteristics, calculates default rates across different demographics, and examines payment histories.
 
