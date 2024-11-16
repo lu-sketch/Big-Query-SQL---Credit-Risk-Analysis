@@ -5,6 +5,9 @@ This project analyses credit card default patterns using SQL, focusing on demogr
 
 Through various SQL queries, this project explores client characteristics, calculates default rates across different demographics, and examines payment histories.
 
+![Borrowing by Educational Status](https://www.notion.so/SQL-CREDIT-RISK-ANALYSIS-14056e4be2ae80a5bd13c9274d93d529?pvs=4#14056e4be2ae80dba1bccec84b23f38a)
+
+
 ## Dataset Information
 The dataset used in this project is hosted in Google BigQuery:
 - **Table ID**: `bigquery-public-data.ml_datasets.credit_card_default`
