@@ -1,11 +1,14 @@
 # Credit Card Default Analysis using SQL on BigQuery
 
+## Technologies Used
+- ![Google BigQuery](https://img.shields.io/badge/Database-Google%20BigQuery-blue?logo=google-cloud&logoColor=white)
+- [Google BigQuery](https://cloud.google.com/bigquery)
+
+
 ## Project Overview
 This project analyses credit card default patterns using SQL, focusing on demographic factors and payment behaviour to identify trends associated with higher risks of default. The analysis is conducted on the [Credit Card Default dataset](https://console.cloud.google.com/marketplace/product/bigquery-public-data/ml_datasets) available on **Google BigQuery.**
 
 Through various SQL queries, this project explores client characteristics, calculates default rates across different demographics, and examines payment histories.
-
-![Borrowing by Educational Status](https://www.notion.so/SQL-CREDIT-RISK-ANALYSIS-14056e4be2ae80a5bd13c9274d93d529?pvs=4#14056e4be2ae80dba1bccec84b23f38a)
 
 
 ## Dataset Information
