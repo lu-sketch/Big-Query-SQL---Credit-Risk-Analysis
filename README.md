@@ -95,7 +95,9 @@ This project provides insights into the demographic and behavioural factors asso
 ## Project documentation
 For a detailed report showcasing SQL queries, visualizations, 
 and insights from this analysis, please see the Notion Report.
-[SQL - Credit Risk REPORT](https://www.notion.so/SQL-CREDIT-RISK-ANALYSIS-14056e4be2ae80a5bd13c9274d93d529?pvs=4)
-
-
+<a href="https://www.notion.so/SQL-CREDIT-RISK-ANALYSIS-14056e4be2ae80a5bd13c9274d93d529?pvs=4">
+    <button style="background-color: blue; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+        REPORT
+    </button>
+</a>
 
